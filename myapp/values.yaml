@@ -5,7 +5,7 @@ image:
   tag: 4b78b52-40
 
 service:
-  type: ClusterIP
+  type: LoadBalancer
   port: 80
 
 env:
