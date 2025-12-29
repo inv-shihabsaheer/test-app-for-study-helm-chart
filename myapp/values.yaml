@@ -1,8 +1,8 @@
 replicaCount: 1
 
 image:
-  repository: ""
-  tag: ""
+  repository: us-central1-docker.pkg.dev/curser-project/my-artifact-repo/myapp
+  tag: 4b78b52-40
 
 service:
   type: ClusterIP
