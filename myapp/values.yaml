@@ -5,7 +5,7 @@ image:
   tag: de747ac-52
 
 service:
-  type: LoadBalancer
+  type: CluserIP
   port: 80
 
 env:
