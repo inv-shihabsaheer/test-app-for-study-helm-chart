@@ -10,4 +10,4 @@ service:
 
 env:
   APP_NAME: myapp
-  APP_ENV: Production
+  APP_ENV: Development
