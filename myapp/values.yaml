@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: us-central1-docker.pkg.dev/curser-project/my-artifact-repo/myapp
-  tag: de747ac-58
+  tag: de747ac-66
 
 service:
   type: LoadBalancer
